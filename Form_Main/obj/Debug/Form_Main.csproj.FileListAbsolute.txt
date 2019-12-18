@@ -1,0 +1,273 @@
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\bin\Debug\Form_Main.exe.config
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\bin\Debug\Form_Main.exe
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\bin\Debug\Form_Main.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\bin\Debug\ControlLibrary.dll
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\bin\Debug\EntityFramework.dll
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\bin\Debug\EntityFramework.SqlServer.dll
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\bin\Debug\ControlLibrary.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\bin\Debug\EntityFramework.xml
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\bin\Debug\EntityFramework.SqlServer.xml
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\obj\Debug\Form_Main.csprojAssemblyReference.cache
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\obj\Debug\Form_Main.Form1.resources
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\obj\Debug\Form_Main.Properties.Resources.resources
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\obj\Debug\Form_Main.csproj.GenerateResource.cache
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\obj\Debug\Form_Main.csproj.CoreCompileInputs.cache
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\obj\Debug\Form_Main.csproj.CopyComplete
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\obj\Debug\Form_Main.exe
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\obj\Debug\Form_Main.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\obj\Debug\Form_Main.Form_DangNhap.resources
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\bin\Debug\DataLibrary.dll
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\bin\Debug\DataLibrary.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\Form_Main\bin\Debug\DataLibrary.dll.config
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\Form_Main.exe.config
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\Form_Main.exe
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\Form_Main.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\ControlLibrary.dll
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\EntityFramework.dll
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\EntityFramework.SqlServer.dll
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\DataLibrary.dll
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\ControlLibrary.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\EntityFramework.xml
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\EntityFramework.SqlServer.xml
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\DataLibrary.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\DataLibrary.dll.config
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.csprojAssemblyReference.cache
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.Form1.resources
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.Form_DangNhap.resources
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.Properties.Resources.resources
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.csproj.GenerateResource.cache
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.csproj.CoreCompileInputs.cache
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.csproj.CopyComplete
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.exe
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.pdb
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\Form_Main.exe.config
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\Form_Main.exe
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\Form_Main.pdb
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\ControlLibrary.dll
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\EntityFramework.dll
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\DataLibrary.dll
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\ControlLibrary.pdb
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\EntityFramework.xml
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\DataLibrary.pdb
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.Form1.resources
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.Form_DangNhap.resources
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.Properties.Resources.resources
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.csproj.GenerateResource.cache
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.exe
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.pdb
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\DataLibrary.dll.config
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.csprojAssemblyReference.cache
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.csproj.CoreCompileInputs.cache
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.csproj.CopyComplete
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\Form_Main.exe.config
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\Form_Main.exe
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\Form_Main.pdb
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\ControlLibrary.dll
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\EntityFramework.dll
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\DataLibrary.dll
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\ControlLibrary.pdb
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\EntityFramework.xml
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\DataLibrary.pdb
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\DataLibrary.dll.config
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.csprojAssemblyReference.cache
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.Form1.resources
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.Form_DangNhap.resources
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.Properties.Resources.resources
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.csproj.GenerateResource.cache
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.csproj.CoreCompileInputs.cache
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.csproj.CopyComplete
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.exe
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.pdb
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\Form_Main.exe.config
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\Form_Main.exe
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\Form_Main.pdb
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\ControlLibrary.dll
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\EntityFramework.dll
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\EntityFramework.SqlServer.dll
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\DataLibrary.dll
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\ControlLibrary.pdb
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\EntityFramework.xml
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\EntityFramework.SqlServer.xml
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\DataLibrary.pdb
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\bin\Debug\DataLibrary.dll.config
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.csprojAssemblyReference.cache
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.Form1.resources
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.Form_DangNhap.resources
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.Properties.Resources.resources
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.csproj.GenerateResource.cache
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.csproj.CoreCompileInputs.cache
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.csproj.CopyComplete
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.exe
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\Form_Main\obj\Debug\Form_Main.pdb
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.exe.config
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.exe
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.pdb
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\bin\Debug\ControlLibrary.dll
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.dll
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.SqlServer.dll
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.dll
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\bin\Debug\ControlLibrary.pdb
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.xml
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.SqlServer.xml
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.pdb
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.dll.config
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csprojAssemblyReference.cache
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Form1.resources
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Form_DangNhap.resources
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Properties.Resources.resources
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.GenerateResource.cache
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.CoreCompileInputs.cache
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.CopyComplete
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.exe
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.exe.config
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.exe
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\bin\Debug\ControlLibrary.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.SqlServer.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\bin\Debug\ControlLibrary.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.dll.config
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.xml
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.SqlServer.xml
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csprojAssemblyReference.cache
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Form1.resources
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Form_DangNhap.resources
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Properties.Resources.resources
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.GenerateResource.cache
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.CoreCompileInputs.cache
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.CopyComplete
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.exe
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.pdb
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.exe.config
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.exe
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.pdb
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\ControlLibrary.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\ControlLibrary.pdb
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.pdb
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.dll.config
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Form1.resources
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Form_DangNhap.resources
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Properties.Resources.resources
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.CopyComplete
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.exe
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.pdb
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.exe.config
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.exe
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.pdb
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\bin\Debug\ControlLibrary.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\bin\Debug\ControlLibrary.pdb
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.pdb
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.dll.config
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.xml
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csprojAssemblyReference.cache
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Form1.resources
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Form_DangNhap.resources
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Properties.Resources.resources
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.GenerateResource.cache
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.CoreCompileInputs.cache
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.CopyComplete
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.exe
+E:\New folder (2)\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.pdb
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.exe.config
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.exe
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.pdb
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\ControlLibrary.dll
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.dll
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.dll
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.SqlServer.dll
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\ControlLibrary.pdb
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.pdb
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.dll.config
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.xml
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.SqlServer.xml
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csprojAssemblyReference.cache
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Form1.resources
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Form_DangNhap.resources
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Properties.Resources.resources
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.GenerateResource.cache
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.CoreCompileInputs.cache
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.CopyComplete
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.exe
+E:\BaiNop\CuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.exe.config
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.exe
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\bin\Debug\Form_Main.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\bin\Debug\ControlLibrary.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.SqlServer.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\bin\Debug\ControlLibrary.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\bin\Debug\DataLibrary.dll.config
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\bin\Debug\EntityFramework.SqlServer.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csprojAssemblyReference.cache
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Form1.resources
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Form_DangNhap.resources
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.Properties.Resources.resources
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.GenerateResource.cache
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.CoreCompileInputs.cache
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.csproj.CopyComplete
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.exe
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\Form_Main\obj\Debug\Form_Main.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\bin\Debug\Form_Main.exe.config
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\bin\Debug\Form_Main.exe
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\bin\Debug\Form_Main.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\bin\Debug\ControlLibrary.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\bin\Debug\DataLibrary.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\bin\Debug\EntityFramework.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\bin\Debug\EntityFramework.SqlServer.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\bin\Debug\ControlLibrary.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\bin\Debug\DataLibrary.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\bin\Debug\DataLibrary.dll.config
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\bin\Debug\EntityFramework.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\bin\Debug\EntityFramework.SqlServer.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\obj\Debug\Form_Main.csprojAssemblyReference.cache
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\obj\Debug\Form_Main.Form1.resources
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\obj\Debug\Form_Main.Form_DangNhap.resources
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\obj\Debug\Form_Main.Properties.Resources.resources
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\obj\Debug\Form_Main.csproj.GenerateResource.cache
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\obj\Debug\Form_Main.csproj.CoreCompileInputs.cache
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\obj\Debug\Form_Main.csproj.CopyComplete
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\obj\Debug\Form_Main.exe
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\Form_Main\obj\Debug\Form_Main.pdb
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\bin\Debug\Form_Main.exe.config
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\bin\Debug\Form_Main.exe
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\bin\Debug\Form_Main.pdb
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\bin\Debug\ControlLibrary.dll
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\bin\Debug\DataLibrary.dll
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\bin\Debug\EntityFramework.dll
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\bin\Debug\ControlLibrary.pdb
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\bin\Debug\DataLibrary.pdb
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\bin\Debug\DataLibrary.dll.config
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\bin\Debug\EntityFramework.xml
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\obj\Debug\Form_Main.csprojAssemblyReference.cache
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\obj\Debug\Form_Main.Form1.resources
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\obj\Debug\Form_Main.Form_DangNhap.resources
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\obj\Debug\Form_Main.Properties.Resources.resources
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\obj\Debug\Form_Main.csproj.GenerateResource.cache
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\obj\Debug\Form_Main.csproj.CoreCompileInputs.cache
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\obj\Debug\Form_Main.csproj.CopyComplete
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\obj\Debug\Form_Main.exe
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\Form_Main\obj\Debug\Form_Main.pdb

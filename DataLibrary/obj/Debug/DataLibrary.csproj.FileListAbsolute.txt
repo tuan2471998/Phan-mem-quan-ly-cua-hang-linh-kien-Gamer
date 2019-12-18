@@ -1,0 +1,167 @@
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\DataLibrary\bin\Debug\DataLibrary.dll
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\DataLibrary\bin\Debug\DataLibrary.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\DataLibrary\obj\Debug\DataLibrary.dll
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\DataLibrary\obj\Debug\DataLibrary.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\DataLibrary\bin\Debug\DataLibrary.dll.config
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\DataLibrary\bin\Debug\EntityFramework.dll
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\DataLibrary\bin\Debug\EntityFramework.xml
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienThoai\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\DataLibrary.dll.config
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\DataLibrary.dll
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\DataLibrary.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\EntityFramework.dll
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\EntityFramework.xml
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.dll
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangDienThoai\CuaHangDienTu2\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\DataLibrary.dll.config
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\DataLibrary.dll
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\DataLibrary.pdb
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\EntityFramework.dll
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\EntityFramework.xml
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.dll
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.pdb
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+D:\Bai\Lap trinh winform nang cao\DeAn\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\DataLibrary.dll.config
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\DataLibrary.dll
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\DataLibrary.pdb
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\EntityFramework.dll
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\EntityFramework.xml
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.dll
+D:\Bai\Lap trinh winform nang cao\New folder\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.pdb
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\DataLibrary.dll.config
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\DataLibrary.dll
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\DataLibrary.pdb
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\EntityFramework.dll
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\EntityFramework.xml
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.dll
+E:\Study\Lap trinh window nang cao\Cua-Hang-Linh-Kien-Dien-Tu\DataLibrary\obj\Debug\DataLibrary.pdb
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.dll.config
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.dll
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.pdb
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.dll
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.xml
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.dll
+E:\Study\Lap trinh window nang cao\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.dll.config
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.xml
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.Migrations.InitialCreate.resources
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.dll.config
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.Migrations.InitialCreate.resources
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+E:\New folder (2)\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.dll.config
+E:\New folder (2)\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.pdb
+E:\New folder (2)\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.xml
+E:\New folder (2)\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder (2)\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+E:\New folder (2)\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.Migrations.InitialCreate.resources
+E:\New folder (2)\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.GenerateResource.cache
+E:\New folder (2)\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+E:\New folder (2)\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+E:\New folder (2)\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.pdb
+E:\BaiNop\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.dll.config
+E:\BaiNop\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.dll
+E:\BaiNop\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.pdb
+E:\BaiNop\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.dll
+E:\BaiNop\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\BaiNop\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.xml
+E:\BaiNop\CuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\BaiNop\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+E:\BaiNop\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.Migrations.InitialCreate.resources
+E:\BaiNop\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.GenerateResource.cache
+E:\BaiNop\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+E:\BaiNop\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+E:\BaiNop\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.dll
+E:\BaiNop\CuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.Migrations.InitialCreate.resources
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.GenerateResource.cache
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.dll.config
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\DataLibrary\bin\Debug\DataLibrary.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\DataLibrary\bin\Debug\DataLibrary.dll.config
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\DataLibrary\bin\Debug\DataLibrary.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\DataLibrary\bin\Debug\DataLibrary.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\DataLibrary\bin\Debug\EntityFramework.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\DataLibrary\bin\Debug\EntityFramework.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\DataLibrary\obj\Debug\DataLibrary.Migrations.InitialCreate.resources
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\DataLibrary\obj\Debug\DataLibrary.csproj.GenerateResource.cache
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\DataLibrary\obj\Debug\DataLibrary.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\DataLibrary\bin\Debug\DataLibrary.dll.config
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\DataLibrary\bin\Debug\EntityFramework.dll
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\DataLibrary\bin\Debug\EntityFramework.xml
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\DataLibrary\obj\Debug\DataLibrary.Migrations.InitialCreate.resources
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\DataLibrary\obj\Debug\DataLibrary.csproj.GenerateResource.cache
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\J Nguyen\Desktop\Phan-mem-quan-ly-cua-hang-linh-kien-Gamer-master\DataLibrary\obj\Debug\DataLibrary.pdb

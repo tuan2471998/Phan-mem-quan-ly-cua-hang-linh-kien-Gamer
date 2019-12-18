@@ -1,0 +1,360 @@
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\WebCuaHang.dll.config
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\WebCuaHang.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\WebCuaHang.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csc.exe
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csc.exe.config
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csc.rsp
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csi.exe
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csi.rsp
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.AppContext.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.Collections.Immutable.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.IO.FileSystem.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.Reflection.Metadata.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\vbc.exe
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\vbc.exe.config
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\vbc.rsp
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\VBCSCompiler.exe
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\VBCSCompiler.exe.config
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\Antlr3.Runtime.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\AspNet.ScriptManager.jQuery.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\ControlLibrary.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\DataLibrary.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.SqlServer.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.Web.Infrastructure.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\Newtonsoft.Json.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\System.Web.Optimization.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\WebGrease.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\ControlLibrary.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\DataLibrary.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\DataLibrary.dll.config
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.xml
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.SqlServer.xml
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\System.Web.Optimization.xml
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\Newtonsoft.Json.xml
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\Antlr3.Runtime.pdb
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.csprojAssemblyReference.cache
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.csproj.CoreCompileInputs.cache
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.csproj.CopyComplete
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.dll
+E:\Hoc\visual\DoAnWinform\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.pdb
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\WebCuaHang.dll.config
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\WebCuaHang.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\WebCuaHang.pdb
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\ControlLibrary.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\DataLibrary.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\WebGrease.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\ControlLibrary.pdb
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\DataLibrary.pdb
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\DataLibrary.dll.config
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.csproj.CopyComplete
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.dll
+C:\Users\DELL\Desktop\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.pdb
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\WebCuaHang.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\WebCuaHang.pdb
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csc.exe
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csc.exe.config
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csc.rsp
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csi.exe
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csi.rsp
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.AppContext.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.Collections.Immutable.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.IO.FileSystem.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.Reflection.Metadata.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\vbc.exe
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\vbc.exe.config
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\vbc.rsp
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\VBCSCompiler.exe
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\VBCSCompiler.exe.config
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\Antlr3.Runtime.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\AspNet.ScriptManager.bootstrap.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\AspNet.ScriptManager.jQuery.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\ControlLibrary.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\DataLibrary.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.SqlServer.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.ScriptManager.WebForms.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.Web.Infrastructure.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\Newtonsoft.Json.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\System.Web.Optimization.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\WebGrease.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\ControlLibrary.pdb
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\DataLibrary.pdb
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\DataLibrary.dll.config
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.xml
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.SqlServer.xml
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\System.Web.Optimization.xml
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\Newtonsoft.Json.xml
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\Antlr3.Runtime.pdb
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.csprojAssemblyReference.cache
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.csproj.CoreCompileInputs.cache
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.csproj.CopyComplete
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.dll
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.pdb
+E:\New folder (2)\CuaHangLinhKienDienTu\WebCuaHang\bin\WebCuaHang.dll.config
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\WebCuaHang.dll.config
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\WebCuaHang.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\WebCuaHang.pdb
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csc.exe
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csc.exe.config
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csc.rsp
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csi.exe
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csi.rsp
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.AppContext.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.Collections.Immutable.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.IO.FileSystem.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.Reflection.Metadata.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\vbc.exe
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\vbc.exe.config
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\vbc.rsp
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\VBCSCompiler.exe
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\VBCSCompiler.exe.config
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\Antlr3.Runtime.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\AspNet.ScriptManager.bootstrap.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\AspNet.ScriptManager.jQuery.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\ControlLibrary.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\DataLibrary.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.SqlServer.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.ScriptManager.WebForms.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.Web.Infrastructure.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\Newtonsoft.Json.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\System.Web.Optimization.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\WebGrease.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\ControlLibrary.pdb
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\DataLibrary.pdb
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\DataLibrary.dll.config
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.xml
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.SqlServer.xml
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\System.Web.Optimization.xml
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\Newtonsoft.Json.xml
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\Antlr3.Runtime.pdb
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.csprojAssemblyReference.cache
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.csproj.CoreCompileInputs.cache
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.csproj.CopyComplete
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.dll
+E:\BaiNop\CuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.csprojAssemblyReference.cache
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.csproj.CoreCompileInputs.cache
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\WebCuaHang.dll.config
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\WebCuaHang.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\WebCuaHang.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csc.exe
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csc.exe.config
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csc.rsp
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csi.exe
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\csi.rsp
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.AppContext.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.Collections.Immutable.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.IO.FileSystem.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\System.Reflection.Metadata.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\vbc.exe
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\vbc.exe.config
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\vbc.rsp
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\VBCSCompiler.exe
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\roslyn\VBCSCompiler.exe.config
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\Antlr3.Runtime.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\AspNet.ScriptManager.bootstrap.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\AspNet.ScriptManager.jQuery.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\ControlLibrary.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\DataLibrary.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.SqlServer.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.ScriptManager.WebForms.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.Web.Infrastructure.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\Newtonsoft.Json.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\System.Web.Optimization.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\WebGrease.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\ControlLibrary.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\DataLibrary.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\DataLibrary.dll.config
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\EntityFramework.SqlServer.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\System.Web.Optimization.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\Newtonsoft.Json.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\Antlr3.Runtime.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienDienTu\PhanMemQuanLyCuaHangLinhKienDienTu\WebCuaHang\obj\Debug\WebCuaHang.csproj.CopyComplete
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\WebCuaHang.dll.config
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\WebCuaHang.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\WebCuaHang.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\csc.exe
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\csc.exe.config
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\csc.rsp
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\csi.exe
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\csi.rsp
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\System.AppContext.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\System.Collections.Immutable.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\System.IO.FileSystem.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\System.Reflection.Metadata.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\vbc.exe
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\vbc.exe.config
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\vbc.rsp
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\VBCSCompiler.exe
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\roslyn\VBCSCompiler.exe.config
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\Antlr3.Runtime.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\AspNet.ScriptManager.bootstrap.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\AspNet.ScriptManager.jQuery.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\ControlLibrary.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\DataLibrary.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\EntityFramework.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\EntityFramework.SqlServer.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\Microsoft.ScriptManager.WebForms.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\Microsoft.Web.Infrastructure.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\Newtonsoft.Json.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\System.Web.Optimization.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\WebGrease.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\ControlLibrary.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\DataLibrary.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\DataLibrary.dll.config
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\EntityFramework.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\EntityFramework.SqlServer.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\System.Web.Optimization.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\Newtonsoft.Json.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\Antlr3.Runtime.pdb
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\obj\Debug\WebCuaHang.csprojAssemblyReference.cache
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\obj\Debug\WebCuaHang.csproj.CoreCompileInputs.cache
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\obj\Debug\WebCuaHang.csproj.CopyComplete
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\obj\Debug\WebCuaHang.dll
+E:\BaiNop\PhanMemQuanLyCuaHangLinhKienGamer\PhanMemQuanLyCuaHangLinhKienGamer\WebCuaHang\obj\Debug\WebCuaHang.pdb
